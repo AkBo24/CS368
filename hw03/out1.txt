@@ -1,0 +1,45 @@
+---- Start Test Output ----
+10
+4
+$1.99 $5.99 $10 $20 
+Jones, JOSE: Orders=[5,10,10,20,], Cost=0, Percent=0
+Gates, Melinda: Orders=[0,0,0,1000,], Cost=0, Percent=0
+Quintanilla, Selena: Orders=[1,1,1,1,], Cost=0, Percent=0
+SAI, Zhang: Orders=[0,0,0,1,], Cost=0, Percent=0
+KHAN, ANNE: Orders=[1,1,1,1,], Cost=0, Percent=0
+smith, malek: Orders=[6,11,11,21,], Cost=0, Percent=0
+CASTRO, omar: Orders=[1,0,11,0,], Cost=0, Percent=0
+Wei, Anne: Orders=[0,1,0,100,], Cost=0, Percent=0
+Abara, miguel: Orders=[10,10,10,100,], Cost=0, Percent=0
+West, Kanye: Orders=[10,1,1,1,], Cost=0, Percent=0
+---- End Test Output ----
+---- Start Test Output ----
+10
+4
+$1.99 $5.99 $10 $20 
+Jones, Jose: Orders=[5,10,10,20,], Cost=0, Percent=0
+Gates, Melinda: Orders=[0,0,0,1000,], Cost=0, Percent=0
+Quintanilla, Selena: Orders=[1,1,1,1,], Cost=0, Percent=0
+Sai, Zhang: Orders=[0,0,0,1,], Cost=0, Percent=0
+Khan, Anne: Orders=[1,1,1,1,], Cost=0, Percent=0
+Smith, Malek: Orders=[6,11,11,21,], Cost=0, Percent=0
+Castro, Omar: Orders=[1,0,11,0,], Cost=0, Percent=0
+Wei, Anne: Orders=[0,1,0,100,], Cost=0, Percent=0
+Abara, Miguel: Orders=[10,10,10,100,], Cost=0, Percent=0
+West, Kanye: Orders=[10,1,1,1,], Cost=0, Percent=0
+---- End Test Output ----
+---- Start Test Output ----
+10
+4
+$1.99 $5.99 $10 $20 
+Jones, Jose: Orders=[5,10,10,20,], Cost=569.85, Percent=2.2236
+Gates, Melinda: Orders=[0,0,0,1000,], Cost=20000, Percent=78.0417
+Quintanilla, Selena: Orders=[1,1,1,1,], Cost=37.98, Percent=0.148201
+Sai, Zhang: Orders=[0,0,0,1,], Cost=20, Percent=0.0780417
+Khan, Anne: Orders=[1,1,1,1,], Cost=37.98, Percent=0.148201
+Smith, Malek: Orders=[6,11,11,21,], Cost=607.83, Percent=2.37181
+Castro, Omar: Orders=[1,0,11,0,], Cost=111.99, Percent=0.436995
+Wei, Anne: Orders=[0,1,0,100,], Cost=2005.99, Percent=7.82755
+Abara, Miguel: Orders=[10,10,10,100,], Cost=2179.8, Percent=8.50577
+West, Kanye: Orders=[10,1,1,1,], Cost=55.89, Percent=0.218088
+---- End Test Output ----
